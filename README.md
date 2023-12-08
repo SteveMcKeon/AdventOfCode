@@ -11,7 +11,7 @@ Each year of the Advent of Code has its own directory, named by the year (e.g., 
 Example Structure:
 ```
 /
-├─ 2022/
+├─ 2023/
 │  ├─ Day01/
 │  │  ├─ chal1.py
 │  │  ├─ chal2.py
@@ -19,7 +19,7 @@ Example Structure:
 │  │  └─ README.md
 │  ├─ Day02/
 │  └─ ...
-├─ 2023/
+├─ 2024/
 └─ ...
 ```
 
