@@ -138,7 +138,8 @@ In fact, there doesn't even need to be a full tile path to the outside for tiles
 .|L-7F-J|.
 .|II||II|.
 .L--JL--J.
-..........```
+..........
+```
 
 In both of the above examples, 4 tiles are enclosed by the loop.
 
